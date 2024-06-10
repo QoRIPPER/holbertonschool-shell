@@ -1,2 +1,2 @@
 #!/bin/bash
-find /home/Foo/folder_source -name "*.html" -exec cp {} /home/Foo/other_folder/folder_destination  \
+cp -r /tmp/*html
