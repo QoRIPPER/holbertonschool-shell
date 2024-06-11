@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent hello if_only guillaume
+chown -R --from=guillaume vincent hello
