@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "list_1: $line1 list_2: $line2" | sort | uniq -u
+cat list | sort | uniq -u
