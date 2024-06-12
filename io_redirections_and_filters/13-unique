@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -Python .Perl ASP C C# C++ Go Java Java- Perl Python. > list_2 | echo C C++ Go > list_1  | sort | uniq -u
+echo "-Python" ".Perl" "ASP" "C" "C#" "C++" "Go" "Java" "Java-" "Perl" "Python." > list_2| sort | uniq -u
