@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list_1 list_2 | sort --ignore-case | uniq -u
+echo "word1 word2 word3 ..." | tr ' ' '\n' | sort | uniq -u
