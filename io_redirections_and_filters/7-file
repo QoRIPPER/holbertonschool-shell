@@ -1,2 +1,2 @@
 #!/bin/bash
-makefile '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' Best School$
+rm -rf *Best*
