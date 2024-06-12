@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e  C C++\n Go\n > list_2  | cat list_2 | sort --ignore-case | uniq -u
+echo -e  C C++ Go > list_2  | cat list_2 | sort --ignore-case | uniq -u
