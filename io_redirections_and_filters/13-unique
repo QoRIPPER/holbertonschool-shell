@@ -1,2 +1,2 @@
 #!/bin/bash
-touch list | cat list_1 | cp list_1 > list | cat list_2 |  cp list_2 > list | cat list | sort | uniq -u
+sort | uniq -u
