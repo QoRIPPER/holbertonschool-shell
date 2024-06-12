@@ -1,2 +1,2 @@
 #!/bin/bash
-echo C C++ Go > list_1 | cat list_2 | sort | uniq -u
+echo C C++ Go > list_1 | echo  | cat list_1 | sort | uniq -u
